@@ -12,7 +12,7 @@ if(process.env.JAWSDB_URL){
     user: "root",
     password: "root",
     database: "burger_db"
-  });
+  });w
 }
 
 // Make connection.
