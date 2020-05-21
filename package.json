@@ -15,12 +15,5 @@
     },
     "devDependencies": {
       "handlebars-helper-css": "^0.1.0"
-    },
-    "development": {
-        "username": "mtqcc4v1j4d3oggj",
-        "password": "s2g7kzr3ankt7nk6",
-        "database": "ayga2afldfvk7upp",
-        "host": "ou6zjjcqbi307lip.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-        "dialect": "mysql"
     }
   }
